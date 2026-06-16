@@ -1,10 +1,10 @@
-# GGorAA Homebrew Tap
+# Voltangle Homebrew Tap
 
 ## How do I install these formulae?
 
-`brew install ggoraa/apps/<formula>`
+`brew install voltangle/apps/<formula>`
 
-Or `brew tap ggoraa/apps` and then `brew install <formula>`.
+Or `brew tap voltangle/apps` and then `brew install <formula>`.
 
 ## Documentation
 
