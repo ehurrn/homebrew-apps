@@ -1,7 +1,7 @@
 class Kumitateru < Formula
   desc "Build system for Garmin ConnectIQ. Simple, fast, powerful!"
-  homepage "https://github.com/ggoraa/kumitateru"
-  url "https://github.com/ggoraa/kumitateru/archive/refs/tags/0.4.0.zip"
+  homepage "https://github.com/voltangle/kumitateru"
+  url "https://github.com/voltangle/kumitateru/archive/refs/tags/0.4.0.zip"
   sha256 "696c6d267b0065753d4f2bd40a614248f8991ddb4fc9f23ed8986f3469985a93"
   license "GPL-3.0"
 
